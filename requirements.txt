@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.13
+requests>=2.32
+pytest>=8.3
+pytest-mock>=3.14
+freezegun>=1.5
